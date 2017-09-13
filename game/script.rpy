@@ -4,6 +4,7 @@
 # name of the character.
 
 define len = Character("Len")
+define lion = Character("Lion")
 
 
 # The game starts here.
